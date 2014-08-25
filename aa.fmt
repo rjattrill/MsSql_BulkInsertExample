@@ -1,0 +1,6 @@
+10.0
+4
+1       SQLINT              0       0     "\t"   2     B_ID             ""
+2       SQLCHAR            0       0     "\t"   3     PERIOD_START     Latin1_General_CI_AS
+3       SQLCHAR            0       0     "\t"   4     QUALITY_CODE     Latin1_General_CI_AS
+4       SQLCHAR          0       0     "\r\n"   5     VALUE_NUM      ""
